@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: skill github pages github page
 ---
 
