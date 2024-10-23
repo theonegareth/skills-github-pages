@@ -1,4 +1,2 @@
----
-title: skill github pages
----
+title: skill github pages github page
 
